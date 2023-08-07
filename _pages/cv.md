@@ -16,10 +16,20 @@ Education
 * B.S. in Psychology, Tufts University, 2016, *magna cum laudae*
   * additional majors in International Relations and Spanish
 
-Professional experience
+Research Interests
 ======
-* User Experience Researcher Intern (Quantitative), Summer 2022
-  * Meta Platforms, Inc.
+Interpersonal communication, social support, self-regulation, goal-pursuit, motivation, emotion, emotional regulation, healthy aging, prosocial behavior, individual differences, statistical methods, Bayesian statistics, machine learning
+
+Skills & Trainings
+======
+* Study Design: Online and In-Person Survey, Experimental, & Quasi-Experimental Designs
+* Project Management: Multiple simultaneous, on-going projects; student mentorship
+* Dissemination: Synthesis, visualization, & explanation of data to lay and scientific audiences
+* Tools: Adobe Suite, Qualtrics, Anaconda, Microsoft Office Suite, Canva, GitHub, LaTeX
+* Programming languages: R, Python, JavaScript (JSPsych), SQL | Spoken languages: English, Spanish
+* Statistical Analysis: R, Python, Jamovi, Excel, SPSS
+  * Frequentist & Bayesian methods
+  * Analytic models including: linear, multilevel, & instrumental variable regression, dyadic analyses, correlation, chi-squared and proportion tests, ANOVA, mixed effects models, power analysis, structural equation, path analysis, and latent variable models; Machine Learning models including: logistic & linear regression, cluster analyses, natural language processing
 
 Research experience
 ======
@@ -35,16 +45,10 @@ Research experience
   * Racial Equity & Diversity Lab, Tufts University, Medford, MA
   * PI: Sam Sommers, PhD
 
-Skills & Trainings
+Professional experience
 ======
-* Study Design: Online and In-Person Survey, Experimental, & Quasi-Experimental Designs
-* Project Management: Multiple simultaneous, on-going projects; student mentorship
-* Dissemination: Synthesis, visualization, & explanation of data to lay and scientific audiences
-* Tools: Adobe Suite, Qualtrics, Anaconda, Microsoft Office Suite, Canva, GitHub, LaTeX
-* Programming languages: R, Python, JavaScript (JSPsych), SQL | Spoken languages: English, Spanish
-* Statistical Analysis: R, Python, Jamovi, Excel, SPSS
-  * Frequentist & Bayesian methods
-  * Analytic models including: linear, multilevel, & instrumental variable regression, dyadic analyses, correlation, chi-squared and proportion tests, ANOVA, mixed effects models, power analysis, structural equation, path analysis, and latent variable models; Machine Learning models including: logistic & linear regression, cluster analyses, natural language processing
+* User Experience Researcher Intern (Quantitative), Summer 2022
+  * Meta Platforms, Inc.
     
 Publications & On-going Projects
 ======
