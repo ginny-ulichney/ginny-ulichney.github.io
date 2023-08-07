@@ -7,7 +7,7 @@ main:
   #   url: /talks/    
 
   - title: "Teaching"
-    url: /teachingsimple/    
+    url: /markdown/    
     
   - title: "Projects"
     url: /portfolio/
