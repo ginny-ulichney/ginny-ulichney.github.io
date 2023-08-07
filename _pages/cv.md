@@ -80,7 +80,8 @@ Honors & Awards
 
 Teaching
 ======
-* [“Dyadic Data Analysis & Visualization in R"](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023) (Summer 2023)
+* “Dyadic Data Analysis & Visualization in R" (Summer 2023)
+  * https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023
   *  Workshop Leader, Temple University Coding Outreach Group
 * Positive Psychology (Summer 2023)
   * Instructor of Record, Temple University Department of Psychology & Neuroscience
@@ -88,7 +89,8 @@ Teaching
   *  Teaching Assistant (recitations), Temple University Department of Psychology & Neuroscience
 * Quantitative Methods for Social Sciences (Fall 2021 & 2022)
   * Teaching Assistant (recitations), Temple University Department of Psychology & Neuroscience
-* [“Data Wrangling in R”](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2022/tree/main/data-wrangling-in-r) (Summer 2022)
+* “Data Wrangling in R” (Summer 2022)
+  *  https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2022/tree/main/data-wrangling-in-r
   *  Workshop Leader, Temple University Coding Outreach Group
 * Foundations of Developmental Psychology, Spring 2022
   * Teaching Assistant (support), Temple University Department of Psychology & Neuroscience
