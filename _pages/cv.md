@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Social Psychology (concentration in Quantitative Methods, Temple University, 2025 (expected)
-* M.A. in Psychology, Temple University, 2023
-* B.S. in Psychology (additional majors in International Relations and Spanish), Tufts University, 2016, *magna cum laudae*
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
