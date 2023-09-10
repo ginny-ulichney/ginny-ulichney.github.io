@@ -26,9 +26,7 @@ Skills & Trainings
 * Project Management: Multiple simultaneous, on-going projects; student mentorship
 * Dissemination: Synthesis, visualization, & explanation of data to lay and scientific audiences
 * Tools: Adobe Suite, Qualtrics, Anaconda, Microsoft Office Suite, Canva, GitHub, LaTeX
-* Languages
-  * Programming: R, Python, JavaScript (JSPsych), SQL
-  * Spoken/written: English, Spanish
+* Programming languages: R, Python, JavaScript (JSPsych), SQL | Spoken languages: English, Spanish
 * Statistical Analysis: R, Python, Jamovi, Excel, SPSS
   * Frequentist & Bayesian methods
   * Analytic models including: linear, multilevel, & instrumental variable regression, dyadic analyses, correlation, chi-squared and proportion tests, ANOVA, mixed effects models, power analysis, structural equation, path analysis, and latent variable models; Machine Learning models including: logistic & linear regression, cluster analyses, natural language processing
@@ -80,27 +78,19 @@ Honors & Awards
 
 Teaching
 ======
-* [“Dyadic Data Analysis & Visualization in R"](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023) (Summer 2023)
-  *  Workshop Leader, Temple University Coding Outreach Group
-* Positive Psychology (Summer 2023)
-  * Instructor of Record, Temple University Department of Psychology & Neuroscience
-* Introduction to Psychology (Spring 2023)
-  *  Teaching Assistant (recitations), Temple University Department of Psychology & Neuroscience
-* Quantitative Methods for Social Sciences (Fall 2021 & 2022)
-  * Teaching Assistant (recitations), Temple University Department of Psychology & Neuroscience
-* [“Data Wrangling in R”](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2022/tree/main/data-wrangling-in-r) (Summer 2022)
-  *  Workshop Leader, Temple University Coding Outreach Group
-* Foundations of Developmental Psychology, Spring 2022
-  * Teaching Assistant (support), Temple University Department of Psychology & Neuroscience
-* Foundations of Social Psychology (Spring 2022)
-    * Teaching Assistant (support), Temple University Department of Psychology & Neuroscience
-* Introduction to Psychology (Fall 2019 & Spring 2020)
-  * Teaching Assistant (support), Tufts University Department of Psychology
+* “Dyadic Data Analysis & Visualization in R”, Temple University Coding Outreach Group | Workshop Leader, Summer 2023
+* Positive Psychology, Temple Univ. | Instructor of Record, Summer 2023
+* Intro. to Psychology, Temple Univ. | Teaching Assistant (recitations), Spring 2023
+* Quantitative Methods for Social Sciences, Temple Univ. | Teaching Asst.(recitations), Fall 2021 & 2022
+* “Data Wrangling in R”, Temple Univ. Coding Outreach Group | Workshop Leader, Summer 2022
+* Foundations of Developmental Psychology, Temple University | Teaching Assistant (support), Spring 2022
+* Foundations of Social Psychology, Temple University | Teaching Assistant (support), Spring 2022
+* Introduction to Psychology, Tufts University | Teaching Assistant (support), Fall 2019 & Spring 2020
   
 Service and leadership
 ======
-* Coding Outreach Group (August 2020 – present)
-  * Member, Workshop Leader
-* Temple University Department of Psychology & Neuroscience Diversity, Equity, & Inclusion Committee (August 2020 – present)
+* Coding Outreach Group | August 2020 – present
+  * Member, Workshop Leader (2022 & 2023)
+* Temple University Department of Psychology & Neuroscience Diversity, Equity, & Inclusion Committee | August 2020 – present
   * Social Psychology Graduate Student Liaison
 
