@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD Candidate studying Social Psychology (concentration: Quantitative Methods) in the Social and Affective Neuroscience Lab at Temple University (PI: Chelsea Helion, PhD). 
+About
 
