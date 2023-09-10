@@ -67,10 +67,10 @@ Selected Presentations & Lectures
 * Ulichney, V.; Shipley, T. F.; Jarcho, J. M.; Helion, C. (2021, February). Perceptions of Self-Peer Concern and Action Levels on Racial Injustice, Climate Change, and COVID-19. Poster session, Intervention Science pre-conference to SPSP conference, virtual.
 * Ulichney, V. (2019, October). Specificity of Cognitive Interference in Cognitive-Motor Dual-Tasking through the Lifespan. Data blitz, Laidlaw Scholars research presentations, Medford, MA.
 
-Honors, Invited Programs, & Awards
+Honors & Awards
 ======
-* Santa Fe Institute Complexity-GAINS summer school on Intelligence & Representation (2023)
-* Summer Institute for Social and Personality Psychology (2023)
+* Santa Fe Institute Complexity-GAINS, invited attendee (2023)
+* Summer Institute for Social and Personality Psychology, invited attendee (2023)
 * APAGS Psychological Science Research Grant (2023)
 * APAGS/Psi Chi Junior Scientist Fellowship	(2021)
 * University Graduate Fellowship, Temple University	(2020 – 2024)
