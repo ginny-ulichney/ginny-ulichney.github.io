@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate studying Social Psychology with a concentration in Quantitative Methods in the Social and Affective Neuroscience Laboratory (PI: Chelsea Helion) at Temple University in Philadelphia, PA. I have experience working as a quantitative researcher in both academic and industry settings. 
+I am a PhD candidate studying Social Psychology with a concentration in Quantitative Methods in the Social and Affective Neuroscience Laboratory (PI: Chelsea Helion, PhD) at Temple University in Philadelphia, PA. I have experience working as a quantitative researcher in both academic and industry settings. 
 
-My academic research primarily examines how people best provide one another social support within different situations and across various relationships. I utilize naturalistic experimental and quasi-experimental designs to test these questions with linguistic, behavioral, physiological, and survey/self-report data. I am passionate about leveraging data and reviewing scientific findings to tell meaningful stories with real-world applicability. 
+My academic research primarily examines how people best provide one another social support within different situations and across various relationships. I utilize naturalistic experimental and quasi-experimental designs to test these questions with linguistic, behavioral, physiological, and survey/self-report data. I am passionate about leveraging data and reviewing scientific literature to tell meaningful, impactful stories. 
 
 I hold an M.A. in Psychology from Temple University and a B.Sc. from Tufts University, where I majored in Psychology, Spanish, and International Relations.
 
