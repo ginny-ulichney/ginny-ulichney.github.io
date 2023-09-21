@@ -50,7 +50,7 @@ Teaching & Teaching Assistantships
 Skills
 ======
 * Research Design
-  * Online and in-Person studies
+  * Online and in-person studies
   * Hypothesis generation
   * Experimental, quasi-experimental, and survey design
   * Independent and collaborative projects
