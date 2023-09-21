@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Psychology"
+title: "Introduction to Psychology (TA)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2019-IntroPsych
