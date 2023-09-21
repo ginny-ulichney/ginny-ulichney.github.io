@@ -1,12 +1,10 @@
 ---
-title: "Dyadic analysis & visualization in R"
-collection: teaching
-type: "Workshop"
-venue: "Temple University, Temple Coding Outreach Group"
-date: 2023-08-10
-location: "Philadelphia, PA"
+title: "Dyadic analysis & visualization in R workshop"
+excerpt: "Summer workshop created for the Temple Coding Outreach Group 2023 summer workshop series.<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
-Summer workshop on dyadic analysis in R created for the Temple Coding Outreach Group 2023 summer workshop series.
+
+Summer workshop on dyadic analysis and visualization in R created for the Temple Coding Outreach Group 2023 summer workshop series. In this workshop, attendees learned about dyadic experimental design and data structures, how to wrangle dyadic data, and how to complete dyadic multilevel models and Actor-Partner Interdependent Models and corresponding visualizations.
 
 [Access workshop here](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/tree/master/dyadic_analysis)
 
