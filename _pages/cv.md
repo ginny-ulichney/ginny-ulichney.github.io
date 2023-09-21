@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Social Psychology (Concentration: Quantitative Methods), Temple University, 2025 (expected)
-* M.S. in Psychology, Temple University, 2023
+* M.A. in Psychology, Temple University, 2023
 * B.S. in Psychology, Spanish & International Relations, Tufts University, 2020
 
 Research experience
