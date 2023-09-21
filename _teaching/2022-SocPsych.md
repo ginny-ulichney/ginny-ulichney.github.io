@@ -1,5 +1,5 @@
 ---
-title: "Foundations of Social Psychology (TA)"
+title: "Foundations of Social Psychology - TA"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2022-SocPsych
