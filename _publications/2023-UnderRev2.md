@@ -6,7 +6,7 @@ excerpt: 'Ulichney, V., Jarcho, J.M., & Helion, C. (Under Review). &quot; The ro
 date: 2023-12-31
 venue: 'Under review'
 paperurl: 'https://psyarxiv.com/v356u/'
-citation: 'Please note that this article has not yet completed peer review. Do not copy or cite without author permission.'
+citation: '*Under review, please do not copy or cite without author permission.* Ulichney, V., Jarcho, J.M., & Helion, C. (Under Review). &quot; The role of self-regulation in the provision of social support. &quot; <i>Under Review</i>.'
 ---
 
 [Access preprint here](https://psyarxiv.com/v356u/)
