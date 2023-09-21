@@ -2,11 +2,11 @@
 title: "Maybe the real prize is the friends we made along the way: Perceived support is associated with enhanced emotional well-being in a U.S. sample."
 collection: publications
 permalink: /publication/2023-UnderRev1
-excerpt: ' '
+excerpt: 'Ulichney, V., Schmidt, H., & Helion, C. (Invited Revise & Resubmit). &quot;Maybe the real prize is the friends we made along the way: Perceived support is associated with enhanced emotional well-being in a U.S. sample.&quot; <i>Under Review</i>.'
 date: 2023-12-31
-venue: 'Under Review'
+venue: ' '
 paperurl: 'https://psyarxiv.com/agc3v'
-citation: 'Ulichney, V., Schmidt, H., & Helion, C. (Invited Revise & Resubmit). &quot;Maybe the real prize is the friends we made along the way: Perceived support is associated with enhanced emotional well-being in a U.S. sample.&quot; <i>Under Review</i>.'
+citation: ' '
 ---
 
 [Access preprint here](https://psyarxiv.com/agc3v)
