@@ -2,7 +2,7 @@
 title: "The specificity of cognitive-motor dual-task interference on balance in young and older adults."
 collection: publications
 permalink: /publication/2022-11-01-Specificity
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper examines how dual-task cost between cognitive and motor tasks impacts balance in younger and older adults.'
 date: 2022-11-01
 venue: 'Frontiers in Aging Neuroscience'
 paperurl: 'https://doi.org/10.3389/fnagi.2021.804936'
