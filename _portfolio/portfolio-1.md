@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Data Wrangling in R workshop"
+excerpt: "Summer workshop on data wrangling in R created for the Temple Coding Outreach Group 2022 summer workshop series.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Summer workshop on data wrangling in R created for the Temple Coding Outreach Group 2022 summer workshop series.
+
+[Access workshop here](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2022/tree/main/data-wrangling-in-r)
+
+[Temple Coding Outreach Group website](https://tu-coding-outreach-group.github.io)
+[Temple Coding Outreach Group GitHub](https://github.com/TU-Coding-Outreach-Group)
+
