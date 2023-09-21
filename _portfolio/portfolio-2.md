@@ -1,6 +1,6 @@
 ---
 title: "Dyadic analysis & visualization in R workshop"
-excerpt: "Summer workshop created for the Temple Coding Outreach Group 2023 summer workshop series.<br/><img src='/images/500x300.png'>"
+excerpt: "Summer workshop created for the Temple Coding Outreach Group 2023 summer workshop series.<br/><img src='/images/background-2.png'>"
 collection: portfolio
 ---
 
