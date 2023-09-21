@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Dyadic analysis & visualization in R"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2023-cog-workshop
+venue: "Temple University, Temple Coding Outreach Group"
+date: 2023-08-10
+location: "Philadelphia, PA"
 ---
+Summer workshop on dyadic analysis in R created for the Temple Coding Outreach Group 2023 summer workshop series.
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Access workshop here](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/tree/master/dyadic_analysis)
 
-Heading 1
-======
+[Temple Coding Outreach Group website](https://tu-coding-outreach-group.github.io)
+[Temple Coding Outreach Group GitHub](https://github.com/TU-Coding-Outreach-Group)
 
-Heading 2
-======
-
-Heading 3
-======
