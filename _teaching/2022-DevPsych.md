@@ -1,5 +1,5 @@
 ---
-title: "Foundations of Developmental Psychology"
+title: "Foundations of Developmental Psychology (TA)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2022-DevPsych
