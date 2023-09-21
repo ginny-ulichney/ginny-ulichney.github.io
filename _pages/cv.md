@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Social Psychology (Concentration: Quantitative Methods), Temple University, 2025 (expected)
-* M.A. in Psychology, Temple University, 2023
-* B.S. in Psychology, Spanish & International Relations, Tufts University, 2020
+* Ph.D in Social Psychology (Concentration: Quantitative Methods), Temple University - 2025 (expected)
+* M.A. in Psychology, Temple University
+* B.S. in Psychology, Spanish & International Relations, Tufts University
 
 Research experience
 ======
@@ -49,14 +49,18 @@ Teaching & Teaching Assistantships
 
 Skills
 ======
-* Study Design
-  * Online and In-Person experiments
-  * Survey design
+* Research Design
+  * Online and in-Person studies
+  * Hypothesis generation
+  * Experimental, quasi-experimental, and survey design
+  * Independent and collaborative projects
 * Dissemination of research findings
-  * Synthesis
+  * Interpretation & synthesis
   * Literature review
-  * Writing & presentation
+  * Writing
+  * Presentation & recommendation
   * Data visualization
 * Statistical Analysis
   * Tools: R, Python, Jamovi, Excel, SPSS
   * Frequentist & Bayesian methods
+* Teaching
