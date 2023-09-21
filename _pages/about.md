@@ -12,5 +12,5 @@ I am a PhD candidate studying Social Psychology with a concentration in Quantita
 
 My academic research primarily examines how people best provide one another social support within different situations and across various relationships. I utilize naturalistic experimental and quasi-experimental designs to test these questions with linguistic, behavioral, physiological, and survey/self-report data. I am passionate about leveraging data and reviewing scientific literature to tell meaningful stories. 
 
-I hold an M.A. in Psychology from Temple University and a B.Sc. from Tufts University, where I majored in Psychology, Spanish, and International Relations.
+I hold an M.A. in Psychology from Temple University and a B.S. from Tufts University, where I majored in Psychology, Spanish, and International Relations.
 
