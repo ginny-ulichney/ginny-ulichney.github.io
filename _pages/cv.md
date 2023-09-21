@@ -11,14 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Psychology, Spanish & International Relations, Tufts University, 2020
-* M.S. in Psychology, Temple University, 2023
 * Ph.D in Social Psychology (Concentration: Quantitative Methods), Temple University, 2025 (expected)
-
-Professional experience
-======
-* Summer 2022: User Experience Researcher Intern (Quantitative)
-  * Meta Platforms, Inc., Menlo Park, CA
+* M.S. in Psychology, Temple University, 2023
+* B.S. in Psychology, Spanish & International Relations, Tufts University, 2020
 
 Research experience
 ======
@@ -33,7 +28,25 @@ Research experience
 * 2018: Racial Equity & Diversity Lab, Research Assistant
   * Tufts University
   * PI: Sam Sommers, PhD
+
+Professional experience
+======
+* Summer 2022: User Experience Researcher Intern (Quantitative)
+  * Meta Platforms, Inc., Menlo Park, CA
   
+
+Publications & On-Going Projects
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching & Teaching Assistantships
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Study Design
@@ -47,15 +60,3 @@ Skills
 * Statistical Analysis
   * Tools: R, Python, Jamovi, Excel, SPSS
   * Frequentist & Bayesian methods
-
-Publications & On-Going Projects
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
