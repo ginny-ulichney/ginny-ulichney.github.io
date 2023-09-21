@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Methods for Social Sciences"
+title: "Quantitative Methods for Social Sciences (TA, Fall 2021 & Fall 2022)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2023-QuantSocSci
