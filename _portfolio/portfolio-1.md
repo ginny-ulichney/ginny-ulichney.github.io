@@ -1,6 +1,6 @@
 ---
 title: "Data Wrangling in R workshop"
-excerpt: "Summer workshop on data wrangling in R created for the Temple Coding Outreach Group 2022 summer workshop series.<br/><img src='/images/500x300.png'>"
+excerpt: "Summer workshop on data wrangling in R created for the Temple Coding Outreach Group 2022 summer workshop series.<br/><img src='/images/background-1.png'>"
 collection: portfolio
 ---
 
