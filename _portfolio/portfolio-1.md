@@ -6,7 +6,7 @@ collection: portfolio
 
 Summer workshops created for the Temple Coding Outreach Group summer workshop series in 2022 and 2023. 
 
-**Data wrangling in R:** In this workshop, attendees learned how to import and organize large datasets to complete exploratory analysis, basic analyses, and visualizations. [Access Data Wrangling in R workshop here](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2022/tree/main/data-wrangling-in-r)
+**Data wrangling in R:** In this workshop, attendees learned how to import and organize large datasets to complete exploratory analysis, basic analyses, and visualizations. [Access Data Wrangling in R workshop here](https://tu-coding-outreach-group.github.io/cog_summer_workshops_2022/data-wrangling-in-r/index.html)
 
 **Dyadic Analysis and Visualization in R:** In this workshop, attendees learned about dyadic experimental design and data structures, how to wrangle dyadic data, and how to complete dyadic multilevel models and Actor-Partner Interdependent Models and corresponding visualizations. [Access Dyadic Analysis and Visualization in R workshop here](https://tu-coding-outreach-group.github.io/cog_summer_workshops_2023/dyadic_analysis/index.html)
 
