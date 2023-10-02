@@ -1,5 +1,5 @@
 ---
-title: "R Tutorials: Data Wrangling & Dyadic Analysis and Visualization"
+title: "R Tutorials"
 excerpt: "Summer workshops created for the Temple Coding Outreach Group summer workshop series.<br/><img src='/images/background-1.png'>"
 collection: portfolio
 ---
