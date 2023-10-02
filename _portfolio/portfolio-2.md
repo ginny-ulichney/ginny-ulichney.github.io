@@ -1,6 +1,6 @@
 ---
 title: "Open Source Software"
-excerpt: "R packages <br/><img src='/images/background-2.png'>"
+excerpt: "Contributions to R package development. <br/><img src='/images/background-2.png'>"
 collection: portfolio
 ---
 
