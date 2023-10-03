@@ -41,7 +41,7 @@ Publications & On-Going Projects
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching & Teaching Assistantships
+Teaching 
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
