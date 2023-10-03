@@ -47,6 +47,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Open Source Software & R Workshops 
+======
+  <ul>{% for post in site.portfolio %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Research Design
