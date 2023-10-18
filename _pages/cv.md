@@ -31,8 +31,8 @@ Research experience
 
 Professional experience
 ======
-* Summer 2022: User Experience Researcher Intern (Quantitative)
-  * Meta Platforms, Inc., Menlo Park, CA
+* Summer 2022: User Experience Research Intern (Quantitative)
+  * Meta, Menlo Park, CA
   
 
 Publications & On-Going Projects
@@ -47,7 +47,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Open Source Software & R Workshops 
+Open Source Software & R Tutorials 
 ======
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
