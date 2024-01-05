@@ -5,7 +5,7 @@ permalink: /publication/2023-SuppAffect
 excerpt: ' '
 date: 2023-12-10
 venue: 'Personality & Social Psychology Bulletin'
-paperurl: 'https://psyarxiv.com/agc3v'
+paperurl: ' '
 citation: 'Ulichney, V., Schmidt, H., & Helion, C. (In Press). &quot;Perceived relational support is associated with everyday positive, but not negative, affectivity in a U.S. sample.&quot; <i>Personality & Social Psychology Bulletin.</i>.'
 ---
 
