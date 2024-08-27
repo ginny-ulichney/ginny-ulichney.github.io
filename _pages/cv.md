@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Social Psychology (Concentration: Quantitative Methods), Temple University - 2025 (expected)
+* Ph.D in Psychology (Concentration: Quantitative Methods), Temple University - 2025 (expected)
 * M.A. in Psychology, Temple University
 * B.S. in Psychology, Spanish & International Relations, Tufts University
 
 Research experience
 ======
-* 2020-Present: Social & Affective Neuroscience Lab, Graduate Researcher
+* 2020-Present: Social & Affective Neuroscience Lab, Doctoral Researcher
   * Temple University
   * PI: Chelsea Helion, PhD
  
@@ -31,6 +31,9 @@ Research experience
 
 Professional experience
 ======
+* Summer 2024: Consumer Insights Intern
+  * Netflix, Los Gatos, CA
+
 * Summer 2022: User Experience Research Intern (Quantitative)
   * Meta, Menlo Park, CA
   
