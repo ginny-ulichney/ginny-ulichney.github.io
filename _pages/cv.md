@@ -34,7 +34,7 @@ Professional experience
 * Summer 2024: Consumer Insights Intern
   * Netflix, Los Gatos, CA
 
-* Summer 2022: User Experience Research Intern (Quantitative)
+* Summer 2022: UX Research Intern
   * Meta, Menlo Park, CA
   
 
