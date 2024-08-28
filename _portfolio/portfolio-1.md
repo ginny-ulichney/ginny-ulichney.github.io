@@ -1,6 +1,6 @@
 ---
 title: "R Tutorials"
-excerpt: "Summer workshops created for the Temple Coding Outreach Group summer workshop series.<br/><img src='/images/background-1.png'>"
+excerpt: "Summer workshops created for the Temple Coding Outreach Group summer workshop series."
 collection: portfolio
 ---
 
