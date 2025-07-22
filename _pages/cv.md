@@ -17,8 +17,8 @@ Education
 
 Professional & Research Experience
 ======
-* Consumer Insights Intern (May 2025 - Present)
-  * Netflix, Los Gatos, CA
+* Research Analyst (May 2025 - Present)
+  * Wharton AI and Analytics Initiative, Philadelphia, PA
     
 * Consumer Insights Intern (June - August 2024)
   * Netflix, Los Gatos, CA
