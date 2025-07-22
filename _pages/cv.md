@@ -11,32 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Psychology (Concentration: Quantitative Methods), Temple University - 2025 (expected)
+* Ph.D in Psychology (Concentration: Quantitative Methods), Temple University 
 * M.A. in Psychology, Temple University
 * B.S. in Psychology, Spanish & International Relations, Tufts University
 
-Research experience
+Professional & Research Experience
 ======
-* 2020-Present: Social & Affective Neuroscience Lab, Doctoral Researcher
+* Consumer Insights Intern (May 2025 - Present)
+  * Netflix, Los Gatos, CA
+    
+* Consumer Insights Intern (June - August 2024)
+  * Netflix, Los Gatos, CA
+
+* UX Research Intern (May - August 2022)
+  * Meta, Menlo Park, CA
+  
+* Social & Affective Neuroscience Lab, Doctoral Researcher (August 2020 - May 2025)
   * Temple University
   * PI: Chelsea Helion, PhD
  
-* 2018-2020: Applied Cognition Lab, Research Assistant & Honors Thesis Student
+* Applied Cognition Lab, Research Assistant & Honors Thesis Student (May 2018 - May 2020)
   * Tufts University
   * PI: Nathan Ward, PhD
  
-* 2018: Racial Equity & Diversity Lab, Research Assistant
+* Racial Equity & Diversity Lab, Research Assistant (January - May 2018)
   * Tufts University
   * PI: Sam Sommers, PhD
-
-Professional experience
-======
-* Summer 2024: Consumer Insights Intern
-  * Netflix, Los Gatos, CA
-
-* Summer 2022: UX Research Intern
-  * Meta, Menlo Park, CA
-  
 
 Publications & On-Going Projects
 ======
@@ -50,7 +50,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Open Source Software & R Tutorials 
+Open Source Software & Tutorials 
 ======
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
@@ -72,4 +72,4 @@ Skills
 * Statistical Analysis
   * Tools: R, Python, Jamovi, Excel, SPSS
   * Frequentist & Bayesian methods
-* Teaching
+* Teaching 
