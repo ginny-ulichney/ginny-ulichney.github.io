@@ -1,14 +1,12 @@
 ---
-title: "Conversational linguistic features predict social network learning."
+title: "Conversational linguistic features inform social-relational inference."
 collection: publications
-permalink: /publication/2023-HS-UnderRev3
+permalink: /publication/2025-HS-UnderRev3
 excerpt: ' '
-date: 2023-12-31
-venue: 'Under review'
-paperurl: '10.31234/osf.io/fn4my'
-citation: '*Under review, please do not cite without author permission.* Schmidt, H., Tran, S., Medaglia, J., Ulichney, V., & Helion, C. (Under Review). &quot; Conversational linguistic features predict social network learning. &quot; <i>Under Review</i>.'
+date: 2025-03-06
+venue: 'Psychonomic Bulletin and Review'
+paperurl: 'https://doi.org/10.3758/s13423-025-02654-0'
+citation: Schmidt, H., Tran, S., Medaglia, J. D., Ulichney, V., Mitchell, W. J., & Helion, C. (2025). &quot; Conversational linguistic features inform social-relational inference. &quot; Psychonomic bulletin & review, 10.3758/s13423-025-02654-0. Advance online publication. https://doi.org/10.3758/s13423-025-02654-0
 ---
 
-[Access preprint here](10.31234/osf.io/fn4my)
-
-*Please note that this article has not yet completed peer review. Do not cite without author permission.*
+[Access article at Psychonomic bulletin & review](https://doi.org/10.3758/s13423-025-02654-0)
