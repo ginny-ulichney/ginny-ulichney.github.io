@@ -9,5 +9,5 @@ paperurl: 'https://doi.org/10.3758/s13423-025-02667-9'
 citation: 'Martinez, S. A., Cliver, K., Mitchell, W. J., Schmidt, H., Ulichney, V., Helion, C., Chein, J., & Murty, V. (2025). Linguistic properties of memory expression differentially relate to accuracy, specificity, and perceived veracity. Psychonomic bulletin & review, 10.3758/s13423-025-02667-9. Advance online publication. https://doi.org/10.3758/s13423-025-02667-9'
 ---
 
-[Access article here](https://doi.org/10.3758/s13423-025-02667-9)
+[Access paper here at Psychonomic Bulletin and Review](https://doi.org/10.3758/s13423-025-02667-9)
 
