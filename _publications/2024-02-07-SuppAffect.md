@@ -1,7 +1,7 @@
 ---
 title: "Perceived relational support is associated with everyday positive, but not negative, affectivity in a U.S. sample."
 collection: publications
-permalink: /publication/2024-SuppAffect
+permalink: /publication/2024--02-07-SuppAffect
 excerpt: ''
 date: 2024-02-07
 venue: 'Personality & Social Psychology Bulletin'
