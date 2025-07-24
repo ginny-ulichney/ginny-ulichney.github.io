@@ -8,4 +8,4 @@ date: 2024-08-26
 location: "Philadelphia, PA"
 ---
 
-Teaching assistant for Fall 2024, Fall 2022, & Fall 2022 Quantitative Methods in Social Sciences (Professor Auerbach) responsible for teaching and grading for 3 recitations/week.
+Teaching assistant for Fall 2024, Fall 2022, & Fall 2024 Quantitative Methods in Social Sciences (Professor Auerbach) responsible for teaching and grading for 3 recitations/week.
