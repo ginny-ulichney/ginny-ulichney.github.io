@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Psychology (Concentration: Quantitative Methods), Temple University 
-* M.A. in Psychology, Temple University
 * B.S. in Psychology, Spanish & International Relations, Tufts University
 
 Professional & Research Experience
