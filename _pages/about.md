@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Analyst at the Wharton AI and Analytics Initiative within The Wharton School at the University of Pennsylvania. I am passionate about leveraging data to uncover meaningful insights. 
+Hi! I’m Ginny, and I am a researcher excited about uncovering meaningful, nuanced insights from complex, real-world data in a variety of settings. I have nearly a decade of experience working on interdisciplinary research projects from their earliest stages (analysis planning, experimental and survey design) through completion (statistical analysis, visualization, and communication of findings). 
 
-I hold a Ph.D. in Psychology with a concentration in Quantitative Methods from Temple University completed in the Social and Affective Neuroscience Laboratory and a B.S. with majors in Psychology, Spanish, and International Relations from Tufts University. 
+
+I am currently a Research Analyst at the Wharton AI and Analytics Initiative within The Wharton School at the University of Pennsylvania. I hold a PhD in Psychology with a concentration in Quantitative Methods from Temple University, where my academic research explored how everyday forms of social connection are associated with emotional wellbeing and ways that social cognition can relate to pursuit of personal and shared goals. I also hold a B.S. from Tufts University, where I majored in Psychology, Spanish, and International Relations.
