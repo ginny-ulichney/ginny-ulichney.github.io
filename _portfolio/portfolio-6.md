@@ -1,6 +1,6 @@
 ---
 title: "Data Wrangling in R tutorial (2022)"
-excerpt: "Tutorial created for the 2022 Temple Coding Outreach Group summer workshop series."
+excerpt: "Tutorial on data organization and basic exploratory analysis in R created for the 2022 Temple Coding Outreach Group summer workshop series."
 collection: portfolio
 ---
 
