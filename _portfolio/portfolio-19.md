@@ -1,5 +1,5 @@
 ---
-title: "Dyadic Analysis and Visualization in R tutorial"
+title: "Dyadic Analysis and Visualization in R COG tutorial"
 excerpt: "Tutorial on dyadic data organization, analysis, and visualization basics in R created for the 2023 Temple Coding Outreach Group summer workshop series."
 collection: portfolio
 ---
