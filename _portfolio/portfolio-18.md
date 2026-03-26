@@ -1,6 +1,6 @@
 ---
 title: "ConversationAlign R Package"
-excerpt: "Open source R software package contributor and co-author."
+excerpt: "Open source R software package."
 collection: portfolio
 ---
 
