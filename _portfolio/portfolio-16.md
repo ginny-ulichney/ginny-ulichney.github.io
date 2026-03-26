@@ -1,5 +1,5 @@
 ---
-title: "Basic Text Analysis in R WAIAI tutorial"
+title: "Basic Text Analysis in R tutorial (WAIAI)"
 excerpt: "Tutorial on how to clean data and run basic text analyses in R created for the Wharton AI and Analytics Initiative."
 collection: portfolio
 ---
