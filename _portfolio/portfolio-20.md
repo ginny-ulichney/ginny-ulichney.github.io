@@ -1,5 +1,5 @@
 ---
-title: "Data Wrangling in R COG tutorial"
+title: "Data Wrangling in R tutorial (Temple COG)"
 excerpt: "Tutorial on data organization and basic exploratory analysis in R created for the 2022 Temple Coding Outreach Group summer workshop series."
 collection: portfolio
 ---
