@@ -4,6 +4,6 @@ excerpt: "Tutorial on how to craft interactive data visualizations in R created 
 collection: portfolio
 ---
 
-**Interactive Plots in R:**  [YouTube](https://www.youtube.com/watch?v=q93OfLallDw) and [GitHub](https://github.com/WAIAI-Research/Workshops-and-Tutorials/tree/main/InteractivePlotsinR_workshop)
+**Interactive Plots in R:** Learn how to craft interactive data visualizations via [YouTube](https://www.youtube.com/watch?v=q93OfLallDw) and [GitHub](https://github.com/WAIAI-Research/Workshops-and-Tutorials/tree/main/InteractivePlotsinR_workshop)
 
-Educational tutorials were created for the Wharton AI and Analytics Initiative at the University of Pennsylvania. [Access the tutorial and learn more on the WAIAI website](https://ai-analytics.wharton.upenn.edu/for-students/on-demand-learning/#tutorials)
+Educational tutorials were created for the Wharton AI and Analytics Initiative at the University of Pennsylvania. [Access the tutorial and learn more on the WAIAI website.](https://ai-analytics.wharton.upenn.edu/for-students/on-demand-learning/#tutorials)
