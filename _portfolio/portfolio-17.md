@@ -1,5 +1,5 @@
 ---
-title: "Three things you didn't know you could do in R WAIAI tutorial"
+title: "Three things you didn't know you could do in R tutorial (WAIAI)"
 excerpt: "Tutorial on R basics created for the Wharton AI and Analytics Initiative."
 collection: portfolio
 ---
