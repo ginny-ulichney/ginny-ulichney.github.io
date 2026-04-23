@@ -1,5 +1,5 @@
 ---
-title: "Interactive Plots in R tutorial (WAIAI)"
+title: "Interactive Plots in R tutorial"
 excerpt: "Tutorial on how to craft interactive data visualizations in R created for the Wharton AI and Analytics Initiative."
 collection: portfolio
 ---
