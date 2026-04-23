@@ -1,5 +1,5 @@
 ---
-title: "Data Dashboards in R tutorial (WAIAI)"
+title: "Data Dashboards in R tutorial"
 excerpt: "Tutorial on how to create data dashboards in R using Quarto for the Wharton AI and Analytics Initiative."
 collection: portfolio
 ---
