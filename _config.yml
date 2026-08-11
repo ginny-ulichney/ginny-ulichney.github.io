@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ginny Ulichney"
 title_separator          : "-"
-name                     : &name "Ginny Ulichney"
+name                     : &name "Ginny Ulichney, PhD"
 description              : &description "personal description"
 url                      : https://ginny-ulichney.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,9 +86,9 @@ author:
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Lwfo5EwAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=Dgx1M0MAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "ginny-ulichney"
   orcid            : "http://orcid.org/0000-0002-8170-1313"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
