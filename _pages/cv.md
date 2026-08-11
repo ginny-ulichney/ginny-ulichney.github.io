@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Psychology (Concentration: Quantitative Methods), Temple University 
-* B.S. in Psychology, Spanish & International Relations, Tufts University
+* PhD in Psychology (Concentration: Quantitative Methods), Temple University 
+* BS in Psychology, Spanish & International Relations, Tufts University
 
 Professional & Research Experience
 ======
@@ -29,7 +29,7 @@ Professional & Research Experience
   * Temple University
   * PI: Chelsea Helion, PhD
  
-* Applied Cognition Lab, Research Assistant & Honors Thesis Student (May 2018 - May 2020)
+* Applied Cognition Lab, Research Assistant (May 2018 - May 2020)
   * Tufts University
   * PI: Nathan Ward, PhD
  
